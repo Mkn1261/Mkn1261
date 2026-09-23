@@ -67,13 +67,6 @@ Problem Solving  → DSA • Competitive Programming • LeetCode
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mkn1261&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-### 🧠 LeetCode Graph
-<p align="center">
-  <a href="https://leetcode.com/u/AkashSinghkmps1158/">
-    <img src="https://leetcard.jacoblin.cool/AkashSinghkmps1158?theme=tokyonight&ext=contest" />
-  </a>
-</p>
-
 ---
 
 
