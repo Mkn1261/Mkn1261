@@ -59,18 +59,23 @@ Problem Solving  → DSA • Competitive Programming • LeetCode
 
 ---
 
-## 📈 GitHub Ecosystem
+## 📈 Dynamics & Analytics
 
+### 💻 GitHub Ecosystem
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mkn1261&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mkn1261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mkn1261&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+### 🧠 LeetCode Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkn1261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkn1261&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://leetcode.com/u/AkashSinghkmps1158/">
+    <img src="https://leetcard.jacoblin.cool/AkashSinghkmps1158?theme=tokyonight&ext=contest" />
+  </a>
 </p>
 
 ---
+
 
 ## 🧠 LeetCode
 
